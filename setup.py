@@ -14,7 +14,7 @@ setup(
     description='Package for image processing',
     long_description=page_description,
     long_description_content_type='text/markdown',
-    url='github.link',
+    url='https://github.com/raphaelcavalcanti0/python-package-test',
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.10',
